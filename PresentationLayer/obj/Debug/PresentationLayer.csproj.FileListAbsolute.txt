@@ -1,0 +1,13 @@
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\PresentationLayer\bin\Debug\PresentationLayer.dll
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\PresentationLayer\bin\Debug\PresentationLayer.pdb
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\PresentationLayer\bin\Debug\BusinessLogicLayer.dll
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\PresentationLayer\bin\Debug\eddee.dll
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\PresentationLayer\bin\Debug\eddee.pdb
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\PresentationLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.dll
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\PresentationLayer\obj\Debug\PresentationLayer.pdb
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\PresentationLayer\bin\Debug\DataAccessLayer.dll
+E:\study material\6th semester material\VP LAB\repos\OfficeManagementSystem\PresentationLayer\bin\Debug\DataAccessLayer.pdb
